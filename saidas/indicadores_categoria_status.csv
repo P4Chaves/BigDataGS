@@ -1,0 +1,17 @@
+﻿categoria,status,quantidade
+banco,concluida,5
+banco,em_analise,12
+banco,em_andamento,7
+banco,pendente,18
+calcada,concluida,6
+calcada,em_analise,8
+calcada,em_andamento,4
+calcada,pendente,12
+lixeira,concluida,19
+lixeira,em_analise,20
+lixeira,em_andamento,16
+lixeira,pendente,12
+sinalizacao,concluida,26
+sinalizacao,em_analise,19
+sinalizacao,em_andamento,25
+sinalizacao,pendente,31

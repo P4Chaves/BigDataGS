@@ -1,0 +1,241 @@
+﻿id,categoria,local,descricao,foto,status,data,origem_dado
+OC-0036,banco,Rua A,Banco com parafuso aparente,,concluida,2026-08-02,sintetico
+OC-0209,sinalizacao,Avenida A,Sinalização inclinada,,concluida,2026-08-02,sintetico
+OC-0062,sinalizacao,Praça B,Placa com texto pouco legível,,em_analise,2026-08-03,sintetico
+OC-0064,lixeira,Avenida A,Lixeira com estrutura danificada,,concluida,2026-08-05,sintetico
+OC-0189,sinalizacao,Praça B,Placa com suporte desgastado,,em_analise,2026-08-05,sintetico
+OC-0198,lixeira,Praça B,Lixeira com estrutura danificada,,pendente,2026-08-05,sintetico
+OC-0091,lixeira,Avenida A,Lixeira com estrutura danificada,,concluida,2026-08-06,sintetico
+OC-0135,sinalizacao,Avenida A,Placa com texto pouco legível,,concluida,2026-08-07,sintetico
+OC-0067,sinalizacao,Parque A,Sinalização inclinada,,concluida,2026-08-08,sintetico
+OC-0025,calcada,Rua A,Trecho de calçada com piso solto,,em_andamento,2026-08-09,sintetico
+OC-0004,sinalizacao,Avenida A,Placa com texto pouco legível,,pendente,2026-08-11,sintetico
+OC-0124,lixeira,Parque A,Lixeira sem tampa,,em_andamento,2026-08-11,sintetico
+OC-0206,sinalizacao,Parque A,Placa com suporte desgastado,,concluida,2026-08-11,sintetico
+OC-0007,lixeira,Parque A,Lixeira com estrutura danificada,,em_andamento,2026-08-12,sintetico
+OC-0027,lixeira,Praça A,Lixeira com peça solta,,pendente,2026-08-12,sintetico
+OC-0137,calcada,Avenida A,Calçada com obstáculo de passagem,,concluida,2026-08-12,sintetico
+OC-0057,sinalizacao,Parque A,Placa com texto pouco legível,,concluida,2026-08-13,sintetico
+OC-0125,lixeira,Praça A,Lixeira sem tampa,,em_analise,2026-08-13,sintetico
+OC-0237,sinalizacao,Praça A,Sinalização inclinada,,pendente,2026-08-13,sintetico
+OC-0128,lixeira,Praça B,Lixeira com estrutura danificada,,pendente,2026-08-14,sintetico
+OC-0186,lixeira,Praça A,Lixeira com estrutura danificada,,concluida,2026-08-14,sintetico
+OC-0190,banco,Avenida A,Banco com encosto solto,,concluida,2026-08-15,sintetico
+OC-0204,sinalizacao,Avenida A,Sinalização inclinada,,pendente,2026-08-15,sintetico
+OC-0212,calcada,Rua A,Calçada com desnível,,pendente,2026-08-15,sintetico
+OC-0050,lixeira,Rua A,Lixeira com peça solta,,em_andamento,2026-08-16,sintetico
+OC-0104,sinalizacao,Rua A,Placa com texto pouco legível,,em_andamento,2026-08-16,sintetico
+OC-0120,lixeira,Parque A,Lixeira com peça solta,,em_analise,2026-08-17,sintetico
+OC-0142,lixeira,Avenida A,Lixeira com estrutura danificada,,em_andamento,2026-08-17,sintetico
+OC-0078,sinalizacao,Parque A,Placa com suporte desgastado,,concluida,2026-08-18,sintetico
+OC-0089,sinalizacao,Parque A,Placa com texto pouco legível,,concluida,2026-08-18,sintetico
+OC-0143,banco,Rua A,Banco com parafuso aparente,,em_andamento,2026-08-18,sintetico
+OC-0173,sinalizacao,Parque A,Sinalização inclinada,,pendente,2026-08-18,sintetico
+OC-0099,sinalizacao,Avenida A,Placa com texto pouco legível,,em_analise,2026-08-19,sintetico
+OC-0114,sinalizacao,Parque A,Placa com texto pouco legível,,em_andamento,2026-08-19,sintetico
+OC-0213,lixeira,Parque A,Lixeira com estrutura danificada,,em_andamento,2026-08-19,sintetico
+OC-0030,banco,Parque A,Banco com encosto solto,,pendente,2026-08-20,sintetico
+OC-0040,lixeira,Praça B,Lixeira sem tampa,,em_andamento,2026-08-20,sintetico
+OC-0152,lixeira,Rua A,Lixeira sem tampa,,concluida,2026-08-20,sintetico
+OC-0046,calcada,Praça B,Calçada com desnível,,concluida,2026-08-21,sintetico
+OC-0071,lixeira,Praça A,Lixeira sem tampa,,em_andamento,2026-08-21,sintetico
+OC-0086,lixeira,Praça B,Lixeira sem tampa,,em_andamento,2026-08-21,sintetico
+OC-0098,sinalizacao,Avenida A,Placa com texto pouco legível,,concluida,2026-08-22,sintetico
+OC-0107,banco,Praça B,Banco com encosto solto,,em_analise,2026-08-22,sintetico
+OC-0184,lixeira,Avenida A,Lixeira sem tampa,,concluida,2026-08-22,sintetico
+OC-0193,sinalizacao,Praça A,Sinalização inclinada,,concluida,2026-08-22,sintetico
+OC-0221,sinalizacao,Parque A,Placa com texto pouco legível,,concluida,2026-08-22,sintetico
+OC-0226,banco,Parque A,Banco com encosto solto,,concluida,2026-08-22,sintetico
+OC-0139,sinalizacao,Avenida A,Placa com suporte desgastado,,concluida,2026-08-23,sintetico
+OC-0235,sinalizacao,Praça B,Sinalização inclinada,,em_andamento,2026-08-23,sintetico
+OC-0096,sinalizacao,Rua A,Placa com suporte desgastado,,concluida,2026-08-25,sintetico
+OC-0162,sinalizacao,Rua A,Sinalização inclinada,,concluida,2026-08-25,sintetico
+OC-0179,lixeira,Rua A,Lixeira com peça solta,,concluida,2026-08-25,sintetico
+OC-0192,lixeira,Praça A,Lixeira com estrutura danificada,,concluida,2026-08-25,sintetico
+OC-0109,lixeira,Praça B,Lixeira sem tampa,,concluida,2026-08-26,sintetico
+OC-0200,sinalizacao,Avenida A,Sinalização inclinada,,em_andamento,2026-08-26,sintetico
+OC-0118,banco,Avenida A,Banco com encosto solto,,em_andamento,2026-08-27,sintetico
+OC-0045,sinalizacao,Avenida A,Placa com suporte desgastado,,concluida,2026-08-28,sintetico
+OC-0051,banco,Praça A,Banco com assento danificado,,em_analise,2026-08-28,sintetico
+OC-0232,banco,Avenida A,Banco com encosto solto,,pendente,2026-08-29,sintetico
+OC-0156,banco,Praça B,Banco com parafuso aparente,,em_analise,2026-08-31,sintetico
+OC-0182,banco,Parque A,Banco com parafuso aparente,,concluida,2026-08-31,sintetico
+OC-0207,sinalizacao,Parque A,Placa com texto pouco legível,,pendente,2026-08-31,sintetico
+OC-0187,lixeira,Praça A,Lixeira com estrutura danificada,,em_analise,2026-09-01,sintetico
+OC-0133,lixeira,Parque A,Lixeira com estrutura danificada,,concluida,2026-09-02,sintetico
+OC-0174,sinalizacao,Avenida A,Placa com texto pouco legível,,pendente,2026-09-02,sintetico
+OC-0021,sinalizacao,Praça B,Sinalização inclinada,,concluida,2026-09-03,sintetico
+OC-0024,lixeira,Avenida A,Lixeira sem tampa,,em_andamento,2026-09-03,sintetico
+OC-0113,sinalizacao,Rua A,Placa com suporte desgastado,,pendente,2026-09-03,sintetico
+OC-0019,lixeira,Parque A,Lixeira sem tampa,,pendente,2026-09-04,sintetico
+OC-0165,lixeira,Rua A,Lixeira com estrutura danificada,,concluida,2026-09-04,sintetico
+OC-0077,sinalizacao,Praça A,Sinalização inclinada,,em_andamento,2026-09-05,sintetico
+OC-0170,banco,Praça A,Banco com assento danificado,,em_analise,2026-09-05,sintetico
+OC-0049,lixeira,Rua A,Lixeira com estrutura danificada,,em_andamento,2026-09-06,sintetico
+OC-0033,calcada,Avenida A,Calçada com obstáculo de passagem,,pendente,2026-09-07,sintetico
+OC-0095,sinalizacao,Parque A,Sinalização inclinada,,em_andamento,2026-09-07,sintetico
+OC-0214,sinalizacao,Avenida A,Sinalização inclinada,,concluida,2026-09-07,sintetico
+OC-0069,calcada,Praça A,Trecho de calçada com piso solto,,concluida,2026-09-08,sintetico
+OC-0223,sinalizacao,Avenida A,Placa com suporte desgastado,,concluida,2026-09-08,sintetico
+OC-0225,sinalizacao,Avenida A,Placa com suporte desgastado,,pendente,2026-09-08,sintetico
+OC-0229,lixeira,Avenida A,Lixeira sem tampa,,concluida,2026-09-08,sintetico
+OC-0060,banco,Parque A,Banco com parafuso aparente,,em_analise,2026-09-10,sintetico
+OC-0138,lixeira,Rua A,Lixeira com estrutura danificada,,concluida,2026-09-10,sintetico
+OC-0038,sinalizacao,Rua A,Sinalização inclinada,,concluida,2026-09-11,sintetico
+OC-0168,sinalizacao,Avenida A,Placa com suporte desgastado,,concluida,2026-09-11,sintetico
+OC-0239,sinalizacao,Praça B,Placa com texto pouco legível,,em_analise,2026-09-11,sintetico
+OC-0154,sinalizacao,Parque A,Placa com texto pouco legível,,em_andamento,2026-09-12,sintetico
+OC-0222,sinalizacao,Avenida A,Sinalização inclinada,,em_andamento,2026-09-12,sintetico
+OC-0084,lixeira,Parque A,Lixeira com estrutura danificada,,concluida,2026-09-13,sintetico
+OC-0037,calcada,Praça A,Calçada com desnível,,em_andamento,2026-09-14,sintetico
+OC-0048,sinalizacao,Praça B,Sinalização inclinada,,pendente,2026-09-14,sintetico
+OC-0063,banco,Avenida A,Banco com parafuso aparente,,em_analise,2026-09-14,sintetico
+OC-0169,sinalizacao,Rua A,Placa com suporte desgastado,,em_analise,2026-09-14,sintetico
+OC-0224,calcada,Parque A,Trecho de calçada com piso solto,,concluida,2026-09-14,sintetico
+OC-0238,sinalizacao,Avenida A,Placa com suporte desgastado,,em_andamento,2026-09-14,sintetico
+OC-0053,sinalizacao,Praça A,Sinalização inclinada,,em_andamento,2026-09-15,sintetico
+OC-0072,sinalizacao,Avenida A,Placa com suporte desgastado,,em_analise,2026-09-15,sintetico
+OC-0087,lixeira,Praça A,Lixeira com peça solta,,em_andamento,2026-09-15,sintetico
+OC-0197,banco,Avenida A,Banco com parafuso aparente,,pendente,2026-09-15,sintetico
+OC-0234,lixeira,Rua A,Lixeira sem tampa,,concluida,2026-09-15,sintetico
+OC-0009,sinalizacao,Parque A,Placa com texto pouco legível,,em_analise,2026-09-16,sintetico
+OC-0151,sinalizacao,Avenida A,Placa com texto pouco legível,,concluida,2026-09-16,sintetico
+OC-0158,banco,Rua A,Banco com parafuso aparente,,em_andamento,2026-09-16,sintetico
+OC-0233,lixeira,Avenida A,Lixeira sem tampa,,concluida,2026-09-16,sintetico
+OC-0100,lixeira,Praça A,Lixeira com estrutura danificada,,pendente,2026-09-17,sintetico
+OC-0006,sinalizacao,Parque A,Placa com suporte desgastado,,concluida,2026-09-18,sintetico
+OC-0111,banco,Avenida A,Banco com parafuso aparente,,pendente,2026-09-18,sintetico
+OC-0167,calcada,Rua A,Calçada com obstáculo de passagem,,em_andamento,2026-09-18,sintetico
+OC-0227,lixeira,Rua A,Lixeira com peça solta,,em_andamento,2026-09-18,sintetico
+OC-0035,sinalizacao,Rua A,Placa com suporte desgastado,,em_andamento,2026-09-19,sintetico
+OC-0076,calcada,Avenida A,Calçada com desnível,,concluida,2026-09-20,sintetico
+OC-0042,banco,Avenida A,Banco com encosto solto,,pendente,2026-09-21,sintetico
+OC-0052,calcada,Parque A,Calçada com obstáculo de passagem,,em_analise,2026-09-22,sintetico
+OC-0218,sinalizacao,Avenida A,Sinalização inclinada,,em_analise,2026-09-22,sintetico
+OC-0127,sinalizacao,Avenida A,Placa com suporte desgastado,,em_andamento,2026-09-23,sintetico
+OC-0178,lixeira,Parque A,Lixeira sem tampa,,pendente,2026-09-23,sintetico
+OC-0155,lixeira,Praça A,Lixeira sem tampa,,em_andamento,2026-09-24,sintetico
+OC-0022,lixeira,Rua A,Lixeira sem tampa,,em_analise,2026-09-25,sintetico
+OC-0112,banco,Praça B,Banco com assento danificado,,pendente,2026-09-25,sintetico
+OC-0236,lixeira,Praça B,Lixeira com estrutura danificada,,em_analise,2026-09-25,sintetico
+OC-0215,lixeira,Praça A,Lixeira sem tampa,,em_analise,2026-09-26,sintetico
+OC-0216,sinalizacao,Parque A,Sinalização inclinada,,em_andamento,2026-09-26,sintetico
+OC-0020,banco,Avenida A,Banco com parafuso aparente,,em_andamento,2026-09-28,sintetico
+OC-0023,banco,Parque A,Banco com assento danificado,,concluida,2026-09-28,sintetico
+OC-0041,lixeira,Parque A,Lixeira com peça solta,,em_analise,2026-09-28,sintetico
+OC-0115,sinalizacao,Avenida A,Sinalização inclinada,,em_andamento,2026-09-28,sintetico
+OC-0172,sinalizacao,Avenida A,Placa com suporte desgastado,,em_andamento,2026-09-28,sintetico
+OC-0065,lixeira,Avenida A,Lixeira com peça solta,,em_analise,2026-09-29,sintetico
+OC-0141,calcada,Praça A,Trecho de calçada com piso solto,,pendente,2026-09-29,sintetico
+OC-0201,sinalizacao,Praça B,Sinalização inclinada,,pendente,2026-09-29,sintetico
+OC-0153,banco,Praça A,Banco com assento danificado,,pendente,2026-09-30,sintetico
+OC-0015,lixeira,Praça B,Lixeira sem tampa,,concluida,2026-10-01,sintetico
+OC-0044,lixeira,Praça B,Lixeira sem tampa,,em_andamento,2026-10-01,sintetico
+OC-0121,lixeira,Rua A,Lixeira sem tampa,,em_analise,2026-10-01,sintetico
+OC-0131,sinalizacao,Avenida A,Sinalização inclinada,,pendente,2026-10-01,sintetico
+OC-0180,lixeira,Rua A,Lixeira com estrutura danificada,,em_analise,2026-10-01,sintetico
+OC-0011,lixeira,Avenida A,Lixeira com peça solta,,em_analise,2026-10-02,sintetico
+OC-0102,sinalizacao,Parque A,Placa com suporte desgastado,,pendente,2026-10-02,sintetico
+OC-0150,lixeira,Avenida A,Lixeira sem tampa,,concluida,2026-10-02,sintetico
+OC-0039,sinalizacao,Praça A,Placa com suporte desgastado,,concluida,2026-10-03,sintetico
+OC-0106,banco,Praça A,Banco com parafuso aparente,,em_andamento,2026-10-03,sintetico
+OC-0059,lixeira,Praça A,Lixeira com peça solta,,em_analise,2026-10-04,sintetico
+OC-0066,calcada,Parque A,Trecho de calçada com piso solto,,em_andamento,2026-10-04,sintetico
+OC-0231,banco,Avenida A,Banco com parafuso aparente,,em_analise,2026-10-04,sintetico
+OC-0001,sinalizacao,Avenida A,Placa com texto pouco legível,,em_andamento,2026-10-05,sintetico
+OC-0134,sinalizacao,Parque A,Sinalização inclinada,,em_andamento,2026-10-05,sintetico
+OC-0230,calcada,Avenida A,Calçada com obstáculo de passagem,,pendente,2026-10-05,sintetico
+OC-0171,lixeira,Praça A,Lixeira com peça solta,,concluida,2026-10-07,sintetico
+OC-0188,banco,Praça B,Banco com parafuso aparente,,pendente,2026-10-07,sintetico
+OC-0047,sinalizacao,Rua A,Placa com texto pouco legível,,em_analise,2026-10-08,sintetico
+OC-0090,calcada,Praça A,Calçada com obstáculo de passagem,,pendente,2026-10-08,sintetico
+OC-0144,sinalizacao,Rua A,Placa com suporte desgastado,,em_andamento,2026-10-08,sintetico
+OC-0157,sinalizacao,Praça B,Sinalização inclinada,,concluida,2026-10-08,sintetico
+OC-0070,lixeira,Praça A,Lixeira sem tampa,,concluida,2026-10-09,sintetico
+OC-0075,banco,Praça B,Banco com encosto solto,,pendente,2026-10-09,sintetico
+OC-0010,sinalizacao,Avenida A,Placa com texto pouco legível,,em_analise,2026-10-10,sintetico
+OC-0079,sinalizacao,Praça B,Placa com suporte desgastado,,pendente,2026-10-10,sintetico
+OC-0085,sinalizacao,Rua A,Placa com suporte desgastado,,em_andamento,2026-10-10,sintetico
+OC-0145,sinalizacao,Avenida A,Placa com texto pouco legível,,em_andamento,2026-10-10,sintetico
+OC-0055,lixeira,Parque A,Lixeira com peça solta,,em_andamento,2026-10-11,sintetico
+OC-0159,lixeira,Rua A,Lixeira sem tampa,,em_andamento,2026-10-11,sintetico
+OC-0012,sinalizacao,Rua A,Sinalização inclinada,,em_andamento,2026-10-12,sintetico
+OC-0056,sinalizacao,Parque A,Placa com suporte desgastado,,pendente,2026-10-12,sintetico
+OC-0202,sinalizacao,Praça B,Placa com texto pouco legível,,em_andamento,2026-10-12,sintetico
+OC-0013,lixeira,Praça A,Lixeira sem tampa,,pendente,2026-10-13,sintetico
+OC-0073,sinalizacao,Rua A,Sinalização inclinada,,pendente,2026-10-14,sintetico
+OC-0105,banco,Rua A,Banco com assento danificado,,pendente,2026-10-14,sintetico
+OC-0196,lixeira,Avenida A,Lixeira com estrutura danificada,,em_analise,2026-10-14,sintetico
+OC-0032,lixeira,Rua A,Lixeira com peça solta,,pendente,2026-10-15,sintetico
+OC-0185,lixeira,Praça B,Lixeira sem tampa,,pendente,2026-10-15,sintetico
+OC-0101,sinalizacao,Praça B,Placa com texto pouco legível,,em_analise,2026-10-16,sintetico
+OC-0126,calcada,Praça B,Calçada com obstáculo de passagem,,em_analise,2026-10-17,sintetico
+OC-0028,lixeira,Praça A,Lixeira sem tampa,,em_analise,2026-10-18,sintetico
+OC-0103,sinalizacao,Parque A,Placa com texto pouco legível,,pendente,2026-10-18,sintetico
+OC-0219,banco,Praça A,Banco com assento danificado,,em_analise,2026-10-18,sintetico
+OC-0002,calcada,Avenida A,Calçada com obstáculo de passagem,,em_analise,2026-10-19,sintetico
+OC-0194,sinalizacao,Parque A,Sinalização inclinada,,em_analise,2026-10-19,sintetico
+OC-0081,sinalizacao,Praça A,Sinalização inclinada,,concluida,2026-10-20,sintetico
+OC-0140,lixeira,Rua A,Lixeira com peça solta,,pendente,2026-10-20,sintetico
+OC-0205,sinalizacao,Rua A,Placa com suporte desgastado,,pendente,2026-10-20,sintetico
+OC-0080,banco,Parque A,Banco com encosto solto,,em_analise,2026-10-21,sintetico
+OC-0088,banco,Praça A,Banco com parafuso aparente,,pendente,2026-10-21,sintetico
+OC-0008,sinalizacao,Praça B,Placa com suporte desgastado,,em_analise,2026-10-22,sintetico
+OC-0043,calcada,Praça A,Calçada com desnível,,em_analise,2026-10-22,sintetico
+OC-0092,lixeira,Avenida A,Lixeira com peça solta,,em_analise,2026-10-22,sintetico
+OC-0097,sinalizacao,Avenida A,Sinalização inclinada,,pendente,2026-10-22,sintetico
+OC-0132,banco,Praça A,Banco com assento danificado,,pendente,2026-10-22,sintetico
+OC-0163,sinalizacao,Praça B,Placa com suporte desgastado,,em_andamento,2026-10-22,sintetico
+OC-0122,banco,Praça A,Banco com parafuso aparente,,em_andamento,2026-10-24,sintetico
+OC-0130,calcada,Rua A,Trecho de calçada com piso solto,,em_analise,2026-10-24,sintetico
+OC-0146,banco,Praça B,Banco com encosto solto,,em_analise,2026-10-24,sintetico
+OC-0014,banco,Avenida A,Banco com encosto solto,,pendente,2026-10-25,sintetico
+OC-0017,sinalizacao,Rua A,Placa com suporte desgastado,,concluida,2026-10-25,sintetico
+OC-0005,lixeira,Rua A,Lixeira com estrutura danificada,,pendente,2026-10-26,sintetico
+OC-0016,lixeira,Rua A,Lixeira com peça solta,,pendente,2026-10-26,sintetico
+OC-0082,sinalizacao,Praça B,Placa com texto pouco legível,,em_analise,2026-10-26,sintetico
+OC-0116,sinalizacao,Parque A,Placa com texto pouco legível,,pendente,2026-10-26,sintetico
+OC-0117,banco,Rua A,Banco com encosto solto,,em_andamento,2026-10-26,sintetico
+OC-0199,lixeira,Rua A,Lixeira sem tampa,,em_analise,2026-10-26,sintetico
+OC-0208,calcada,Avenida A,Calçada com obstáculo de passagem,,em_analise,2026-10-26,sintetico
+OC-0136,banco,Avenida A,Banco com parafuso aparente,,em_analise,2026-10-27,sintetico
+OC-0031,lixeira,Rua A,Lixeira sem tampa,,em_analise,2026-10-28,sintetico
+OC-0068,calcada,Parque A,Calçada com obstáculo de passagem,,pendente,2026-10-28,sintetico
+OC-0148,sinalizacao,Avenida A,Sinalização inclinada,,pendente,2026-10-28,sintetico
+OC-0161,sinalizacao,Avenida A,Placa com texto pouco legível,,pendente,2026-10-28,sintetico
+OC-0177,sinalizacao,Rua A,Placa com texto pouco legível,,pendente,2026-10-28,sintetico
+OC-0191,banco,Parque A,Banco com encosto solto,,pendente,2026-10-28,sintetico
+OC-0203,banco,Rua A,Banco com parafuso aparente,,pendente,2026-10-28,sintetico
+OC-0018,banco,Avenida A,Banco com parafuso aparente,,pendente,2026-10-29,sintetico
+OC-0195,calcada,Praça A,Calçada com desnível,,em_analise,2026-10-29,sintetico
+OC-0083,calcada,Rua A,Calçada com desnível,,concluida,2026-10-30,sintetico
+OC-0176,banco,Parque A,Banco com parafuso aparente,,pendente,2026-10-31,sintetico
+OC-0210,calcada,Praça B,Calçada com desnível,,pendente,2026-10-31,sintetico
+OC-0220,sinalizacao,Parque A,Sinalização inclinada,,concluida,2026-10-31,sintetico
+OC-0108,lixeira,Parque A,Lixeira com estrutura danificada,,em_analise,2026-11-01,sintetico
+OC-0119,sinalizacao,Rua A,Sinalização inclinada,,pendente,2026-11-01,sintetico
+OC-0093,sinalizacao,Praça B,Placa com suporte desgastado,,pendente,2026-11-02,sintetico
+OC-0129,sinalizacao,Avenida A,Placa com texto pouco legível,,em_analise,2026-11-02,sintetico
+OC-0181,calcada,Rua A,Trecho de calçada com piso solto,,pendente,2026-11-02,sintetico
+OC-0094,sinalizacao,Praça A,Placa com texto pouco legível,,em_analise,2026-11-03,sintetico
+OC-0160,calcada,Praça B,Calçada com desnível,,pendente,2026-11-03,sintetico
+OC-0164,banco,Parque A,Banco com assento danificado,,pendente,2026-11-03,sintetico
+OC-0183,sinalizacao,Rua A,Sinalização inclinada,,em_analise,2026-11-03,sintetico
+OC-0228,sinalizacao,Parque A,Placa com suporte desgastado,,pendente,2026-11-03,sintetico
+OC-0026,sinalizacao,Praça B,Placa com texto pouco legível,,em_andamento,2026-11-04,sintetico
+OC-0003,lixeira,Rua A,Lixeira com estrutura danificada,,em_analise,2026-11-05,sintetico
+OC-0029,sinalizacao,Praça A,Sinalização inclinada,,em_analise,2026-11-05,sintetico
+OC-0149,sinalizacao,Praça A,Placa com texto pouco legível,,pendente,2026-11-05,sintetico
+OC-0175,banco,Praça A,Banco com assento danificado,,em_analise,2026-11-05,sintetico
+OC-0211,sinalizacao,Rua A,Placa com suporte desgastado,,em_andamento,2026-11-05,sintetico
+OC-0058,sinalizacao,Praça A,Placa com texto pouco legível,,pendente,2026-11-06,sintetico
+OC-0110,calcada,Parque A,Trecho de calçada com piso solto,,em_analise,2026-11-06,sintetico
+OC-0240,sinalizacao,Praça A,Placa com texto pouco legível,,pendente,2026-11-06,sintetico
+OC-0217,calcada,Rua A,Trecho de calçada com piso solto,,pendente,2026-11-07,sintetico
+OC-0061,sinalizacao,Rua A,Placa com texto pouco legível,,pendente,2026-11-08,sintetico
+OC-0074,sinalizacao,Praça B,Placa com texto pouco legível,,pendente,2026-11-08,sintetico
+OC-0034,sinalizacao,Praça B,Placa com suporte desgastado,,em_analise,2026-11-09,sintetico
+OC-0054,lixeira,Avenida A,Lixeira sem tampa,,em_analise,2026-11-10,sintetico
+OC-0123,sinalizacao,Praça B,Sinalização inclinada,,pendente,2026-11-10,sintetico
+OC-0147,calcada,Parque A,Calçada com desnível,,pendente,2026-11-10,sintetico
+OC-0166,calcada,Praça A,Calçada com desnível,,pendente,2026-11-10,sintetico

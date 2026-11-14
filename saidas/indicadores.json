@@ -1,0 +1,66 @@
+{
+  "produto": "ZelaBairro",
+  "origem_dado": "sintetico",
+  "territorio": "locais ficticios (piloto ainda nao definido)",
+  "periodo_inicio": "2026-08-02",
+  "periodo_fim": "2026-11-10",
+  "total_ocorrencias": 240,
+  "por_categoria": [
+    {
+      "categoria": "banco",
+      "quantidade": 42
+    },
+    {
+      "categoria": "calcada",
+      "quantidade": 30
+    },
+    {
+      "categoria": "lixeira",
+      "quantidade": 67
+    },
+    {
+      "categoria": "sinalizacao",
+      "quantidade": 101
+    }
+  ],
+  "por_local": [
+    {
+      "local": "Avenida A",
+      "quantidade": 61
+    },
+    {
+      "local": "Parque A",
+      "quantidade": 48
+    },
+    {
+      "local": "Praça A",
+      "quantidade": 42
+    },
+    {
+      "local": "Praça B",
+      "quantidade": 38
+    },
+    {
+      "local": "Rua A",
+      "quantidade": 51
+    }
+  ],
+  "por_status": [
+    {
+      "status": "concluida",
+      "quantidade": 56
+    },
+    {
+      "status": "em_analise",
+      "quantidade": 59
+    },
+    {
+      "status": "em_andamento",
+      "quantidade": 52
+    },
+    {
+      "status": "pendente",
+      "quantidade": 73
+    }
+  ]
+}
